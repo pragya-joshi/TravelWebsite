@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/travelWebsite/static/css/main.46f506ba.css",
+    "main.js": "/travelWebsite/static/js/main.f245a187.js",
+    "static/media/maldivesVideo.mp4": "/travelWebsite/static/media/maldivesVideo.4b1c6a6fb879322d6587.mp4",
+    "static/media/maldives2.jpg": "/travelWebsite/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora.jpg": "/travelWebsite/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/travelWebsite/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/travelWebsite/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/maldives3.jpg": "/travelWebsite/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
+    "static/media/gold.png": "/travelWebsite/static/media/gold.42f7d8f40c346adfe3a7.png",
+    "static/media/Kerela.jpg": "/travelWebsite/static/media/Kerela.1612fe0617a612b9e3d7.jpg",
+    "index.html": "/travelWebsite/index.html",
+    "main.46f506ba.css.map": "/travelWebsite/static/css/main.46f506ba.css.map",
+    "main.f245a187.js.map": "/travelWebsite/static/js/main.f245a187.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46f506ba.css",
+    "static/js/main.f245a187.js"
+  ]
+}
